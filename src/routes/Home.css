@@ -30,6 +30,7 @@ body {
 
 .nav__links {
     display: flex;
+    align-items: center;
 }
 
 .nav__link {
@@ -122,3 +123,8 @@ body {
     background-color: #d1001c;
   }
   
+.kk{
+    max-width: 50px;
+    color: white;
+    
+}
